@@ -1,3 +1,16 @@
+### V 1.94 Beta
+
+➕ New:
+- Added the Windows HardwareID activation method.
+- Added the possibility to view the "Changelog" and search for updates on the "About" dialog.
+
+🚀 Improved/Changed:
+- Improved the "About" dialog.
+- Updated AnyDesk.
+- Updated CPU-Z.
+- Updated O&O AppBuster.
+
+
 ### V 1.93 Beta
 
 ➕ New:
