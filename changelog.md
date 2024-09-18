@@ -1,3 +1,9 @@
+### V 1.95 Beta
+
+🚀 Improved/Changed:
+- Updated check-for-update repo.
+
+
 ### V 1.94 Beta
 
 ➕ New:
