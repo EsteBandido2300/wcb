@@ -1,8 +1,8 @@
 ### V 1.96 Beta
 
 🚀 Improved/Changed:
-- The "Changalog" section now uses WebView2.
 - Compatibility with 24H2: Now we use WMI instead of WMIC to get the OS and hardware information.
+- The "Changalog" section now uses WebView2 and supports dark theme.
 
 🛠️ Fixed:
 - Fixed the dark theme on the "About" dialog.
@@ -39,6 +39,6 @@
 - The dev label/watermark shows only in the "About" dialog.
 
 🛠️ Fixed:
-- Fixed the _download update_ button when the system theme is black.
+- Fixed the _download update_ button when the system theme is dark.
 - The "Download VPN" button had a wrong tooltip text.
 
