@@ -1,3 +1,13 @@
+### V 1.96 Beta
+
+🚀 Improved/Changed:
+- The "Changalog" section now uses WebView2.
+- Compatibility with 24H2: Now we use WMI instead of WMIC to get the OS and hardware information.
+
+🛠️ Fixed:
+- Fixed the dark theme on the "About" dialog.
+
+
 ### V 1.95 Beta
 
 🚀 Improved/Changed:
