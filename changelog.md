@@ -1,3 +1,12 @@
+### V 1.97 Beta
+
+➕ New:
+- WinGet: implemented the option to install software using WinGet directly if possible.
+
+🚀 Improved/Changed:
+- Improved the loading screen.
+
+
 ### V 1.96 Beta
 
 🚀 Improved/Changed:
